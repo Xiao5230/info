@@ -1,0 +1,7 @@
+[res]
+[lib]
+[file]
+main.lua
+select.lua
+account.lua
+init.lua
